@@ -1,0 +1,36 @@
+#changing_y_limit {
+    width: 1200px;
+    height: 1200px;
+    font-size: 40px;
+}
+#forEM {
+    font-size: 2em;
+}
+#ForRem {
+    font-size: 0.8rem;
+}
+#one {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    border: 8px solid black;
+}
+#two {
+    background-color: blue;
+    width: 20%;
+    height: 20%;
+    border: 8px dashed black;
+
+}
+#three {
+    background-color: rgb(192, 204, 24);
+    width: 20vw;
+    height: 20vw;
+    border: 8px solid black;
+}
+#four {
+    background-color: rgba(212, 16, 170, 0.822);
+    width: 20vh;
+    height: 20vh;
+    border: 8px dashed black;
+}
